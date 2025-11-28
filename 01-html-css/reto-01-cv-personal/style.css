@@ -1,0 +1,61 @@
+
+   /* =========[ TÍTULO PRINCIPAL ]========= */
+.encabezado{
+    background-color:#002D72;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+/* =========[ ESTILOS GENERALES DEL DOCUMENTO]========= */
+body{
+    background-color:white
+}
+/* =========[ ESTILOS PARA TÍTULOS DE SECCIONES (PERFIL,HABILIDADES,ETC) ]========= */
+.contenedor{ 
+    font-family: 'Times New Roman', Times, serif;
+    
+    text-overflow: clip;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.5;
+    font-size: 22px;
+    text-transform:uppercase;
+    
+    
+}
+/* =========[ ESTILOS SECCIÓN PARA LISTAS]========= */
+.lista{
+    font-family: 'Times New Roman', Times, serif;
+    list-style-type: disc;
+    text-align: justify;
+    text-justify: inter-word;
+    font-size: 18px;
+}
+/* =========[ SECCIÓN PERFIL PROFESIONAL ]========= */
+.egresado{
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    font-family:Arial, Helvetica, sans-serif;
+}
+/* =========[ OTROS ESTILOS ESPECÍFICOS ]========= */
+.cu{
+    text-align:center;
+    text-transform:uppercase;
+    width:20%;
+    margin-top:10px;
+    margin-bottom:10px;
+}/* =========[ SECCIÓN DE CONTACTO ]========= */
+.contacto{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+    font-size: 18px;
+
+}
+
+
+
+
+
+    
+
